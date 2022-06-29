@@ -3,6 +3,6 @@
 Fin da piccolo ho sempre amato il mondo Tech, in particolare la programmazione Web. Sono un ragazzo di 23 anni , estroverso, molto creativo ed attento al dettaglio. Mi piace particolarmente il lavoro in Team, infatti ho collaborato molto spesso con delle associazioni di volontariato locali in cui il lavoro in Team era fondamentale.
 odio lasciare i progetti a metà, porto sempre a termine qualsiasi incarico a qualunque costo.
 Attualmente studio presso Epicode Italia.
-<br>
-                 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CristianLaporta&theme=dark&show_icons=true)
+<br><br>
+               <center>  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CristianLaporta&theme=dark&show_icons=true)</center>
 
