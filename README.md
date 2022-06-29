@@ -4,4 +4,5 @@ Fin da piccolo ho sempre amato il mondo Tech, in particolare la programmazione W
 odio lasciare i progetti a metà, porto sempre a termine qualsiasi incarico a qualunque costo.
 Attualmente studio presso Epicode Italia.
 <br>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?CristianLaporta=anuraghazra&theme=dark&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CristianLaporta&theme=dark&show_icons=true)
+
